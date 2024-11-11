@@ -1,16 +1,4 @@
-#EXTM3U billed-msg="ARDIAN PRIADANI PLAYLIST GRATIS ðŸ«°ðŸ¤‘ | Jangan lupa reload secara
-berkala."
-url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/
-bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/
-indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://
-www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/
-malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://
-www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/
-singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/
-unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/
-unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml"
-refresh="1440" max-conn="1" refresh="24"
-
+#EXTM3U 
 ===================TV Indonesia====================================
 #EXTINF:-1 group-logo="https://e7.pngegg.com/pngimages/817/959/png-clipart-tv-
 tv.png",
